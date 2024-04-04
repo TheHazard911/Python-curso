@@ -6,25 +6,26 @@ resultado = len(lista1)
 
 # agregando elementos
 
-agregando_append = lista1.append(84)
+# agregando_append = lista1.append(84)
+
 
 # lista1.insert(0, "mendoza")
 
-# agrega una lista en otra lista
-lista1.extend([2020,2021,2022,2023,2024])
+# # agrega una lista en otra lista
+# lista1.extend([2020,2021,2022,2023,2024])
 
-# eliminando elementos de una lista
-lista1.pop(0)
+# # eliminando elementos de una lista
+# lista1.pop(0)
 
-# # removiendo por su valor
-# lista1.remove()
+# # # removiendo por su valor
+# # lista1.remove()
 
-# eliminando todos los elementos de la lista .clear()
-# lista1.clear()
+# # eliminando todos los elementos de la lista .clear()
+# # lista1.clear()
 
-# orden normal / menor mayor
-lista1.sort()
-# orden inverso / mayor menor
-lista1.sort(reverse=True)
+# # orden normal / menor mayor
+# lista1.sort()
+# # orden inverso / mayor menor
+# lista1.sort(reverse=True)
 
-print(dir(lista1))
+# print(dir(lista1))
