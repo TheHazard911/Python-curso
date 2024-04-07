@@ -1,0 +1,10 @@
+los datos son: 
+Nombre: lucas
+ apellido: dalto 
+-----------------Nombre: matias
+ apellido: zing 
+-----------------Nombre: pedro
+ apellido: azuca 
+-----------------Nombre: roberto
+ apellido: coco 
+-----------------
