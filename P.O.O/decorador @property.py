@@ -5,6 +5,7 @@ class Persona:
         self.__nombre = nombre
         self._edad = edad
     
+# al agregar @property podemos convertir la funcion en una propiedad y podemos verla asi sea privada 
     @property
     # obtener (getters)
     def get_nombre(self):    
