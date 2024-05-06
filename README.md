@@ -1,1 +1,4 @@
 # Python-curso
+~~~
+corrigiendo errores
+~~~
